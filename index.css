@@ -20,8 +20,8 @@ header {
 .logo {
   font-size: 35px;
   font-weight: bold;
-  color: green;
-  font-family: "Courier New", Courier, monospace;
+   color: rgb(49, 209, 196);
+  font-family: Arial, sans-serif;
 }
 
 .nav__cont {
@@ -34,8 +34,8 @@ header {
 .nav__cont span {
   color: black;
   font-size: 18px;
-  font-weight: bold;
-  font-family: "Courier New", Courier, monospace;
+  font-weight: 500;
+  font-family: Arial, sans-serif;
 }
 
 .auth__btn {
