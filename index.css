@@ -19,7 +19,7 @@ header {
 
 .logo {
   font-size: 35px;
-  font-weight: 500;
+  font-weight: bold;
   color: green;
   font-family: "Courier New", Courier, monospace;
 }
@@ -39,7 +39,7 @@ header {
 }
 
 .auth__btn {
-  width: 170px;
+  width: 100px;
   height: 40px;
   background-color: orange;
   color: white;
