@@ -34,7 +34,7 @@ header {
 .nav__cont span {
   color: black;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: bold;
   font-family: "Courier New", Courier, monospace;
 }
 
